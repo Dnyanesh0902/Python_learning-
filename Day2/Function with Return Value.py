@@ -23,3 +23,5 @@ def factorial(number) :
     return result
 num = int(input("Enter The Number "))
 print("Factorial of", num, "is", factorial(num))
+
+
